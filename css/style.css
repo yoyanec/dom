@@ -1,0 +1,21 @@
+html {
+  height: 100%;
+}
+
+body {
+  margin: 0px;
+  height: 100%;
+  align-items: center;
+  align-content: space-around;
+}
+
+h2{
+  margin: auto;
+  width: 565px;
+}
+
+.flipdown{
+  margin: auto;
+  width: 565px;
+  padding-bottom: 50px;
+}
